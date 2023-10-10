@@ -1,3 +1,3 @@
 # favorite food
 
-apple and kakaka
+apple and banana
